@@ -24,7 +24,7 @@ The current state of this project is that it:
 2. Executes without faulting via the 'fibonacci.py' script.
 3. The simply tests in the Python script pass.
 
-However, there are various improvements that can be made around the code. As well as a few bugs that needs squashing. Additionally general code quality could stand to be improved.
+However, there are various improvements that can be made around the code. As well as a few bugs that needs squashing. Additionally general code quality could stand to be improved. You've just inherited this code from an engineer that left recently so you have the lattitude to make it your own without tearing it up completely. 
 
 Your task is to address all the above issues, and anything else you comes across, that needs fixing.
 
